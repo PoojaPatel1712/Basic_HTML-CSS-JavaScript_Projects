@@ -1,4 +1,5 @@
-30 HTML, CSS, and JavaScript Projects in 30 Days
+##30 HTML, CSS, and JavaScript Projects in 30 Days.
+
 Welcome to my 30-day coding challenge! In this repository, I'll be building 30 projects using HTML, CSS, and JavaScript. My goal is to learn new coding techniques and improve my skills in web development.
 
 Each project is designed to be beginner-friendly, so even if you're new to coding, you'll find plenty of ideas and inspiration here. The projects range from responsive landing pages to dynamic image galleries, and each one will showcase what I can do with just a little bit of code.
