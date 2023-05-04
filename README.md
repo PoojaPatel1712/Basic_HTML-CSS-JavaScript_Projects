@@ -18,3 +18,6 @@ Thanks for joining me on this coding journey, and I hope you enjoy the projects!
 2. Popup
 3. Todo App
 4. Calculator
+5. Tic-Tac-Toe
+6. Guessing-Game
+7. Random-Quote-Generator
